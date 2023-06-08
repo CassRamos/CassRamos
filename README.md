@@ -10,7 +10,7 @@ Bacharelando em engenharia.
 
 - 🌱 Atualmente aprendendo sobre **AWS, Tailwind, Docker**
 
-- 💬 Pergunte me sobre **JavaScript, Java, Spring Boot, Angukar, React, SQL**
+- 💬 Pergunte me sobre **JavaScript, Java, Spring Boot, Angular, React, SQL**
 
 - 👨‍💻 Mais em... (não tenho redes sociais 😊)
 
